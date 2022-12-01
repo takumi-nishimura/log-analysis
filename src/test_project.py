@@ -23,7 +23,18 @@ if __name__ == "__main__":
         try:
             count += 1
 
-            message = {"message": {"robot_pos": {"x": 1111, "y": 2222}}}
+            message = {
+                "message": {
+                    "robot_pos": {
+                        "x": 111,
+                        "y": 222,
+                        "z": 333,
+                        "roll": 444,
+                        "pitch": 555,
+                        "yaw": 666,
+                    }
+                }
+            }
             logger.info(message)
 
             if count % 3 == 0:

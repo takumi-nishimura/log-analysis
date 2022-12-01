@@ -27,7 +27,6 @@ def set_file_handler(filename, fileLogLevel, mode, filt=None):
     logger.addHandler(__fileHandler)
     if filt:
         __fileHandler.addFilter(LogTextFilter(filtText=filt))
-    return __fileHandler
 
 
 class LogTextFilter(logging.Filter):
