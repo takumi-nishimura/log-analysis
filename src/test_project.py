@@ -16,6 +16,12 @@ if __name__ == "__main__":
         mode="w",
         filt="count",
     )
+    loggle.set_file_handler(
+        filename="./logs/button_log.log",
+        fileLogLevel=loggle.INFO,
+        mode="w",
+        filt="button",
+    )
 
     count = 0
 
@@ -27,6 +33,9 @@ if __name__ == "__main__":
             count += 1
 
             logger.warning({"message": "robot_pos", "x": 111, "y": 222, "z": 333})
+
+            if count % 2 == 0:
+                logger.info({"message": "button", "button": "up"})
 
             if count % 3 == 0:
                 logger.info({"message": "count", "cnt": count})

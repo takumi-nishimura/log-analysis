@@ -22,8 +22,21 @@ class LogAnalysis:
                 )
         return df
 
+    def merge_df(self, *df):
+        for i, d in enumerate(df):
+            if i == 0:
+                _df = d
+            _df = pd.merge(_df, d, how="outer")
+        return _df.sort_values("asctime", ignore_index=True)
+
 
 if __name__ == "__main__":
     file_path = "./logs/pos_log.log"
-    d = LogAnalysis().read_logfile(file_path)
+    d1 = LogAnalysis().read_logfile(file_path)
+    file_path = "./logs/count_log.log"
+    d2 = LogAnalysis().read_logfile(file_path)
+    file_path = "./logs/button_log.log"
+    d3 = LogAnalysis().read_logfile(file_path)
+
+    d = LogAnalysis().merge_df(d1, d2, d3)
     print(d)
