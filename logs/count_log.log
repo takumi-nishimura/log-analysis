@@ -1,9 +1,8 @@
-{"asctime": "2022-12-01 21:31:14,461", "levelname": "INFO", "module": "test_project", "message": {"count": 3}}
-{"asctime": "2022-12-01 21:31:14,778", "levelname": "INFO", "module": "test_project", "message": {"count": 6}}
-{"asctime": "2022-12-01 21:31:15,089", "levelname": "INFO", "module": "test_project", "message": {"count": 9}}
-{"asctime": "2022-12-01 21:31:15,403", "levelname": "INFO", "module": "test_project", "message": {"count": 12}}
-{"asctime": "2022-12-01 21:31:15,716", "levelname": "INFO", "module": "test_project", "message": {"count": 15}}
-{"asctime": "2022-12-01 21:31:16,027", "levelname": "INFO", "module": "test_project", "message": {"count": 18}}
-{"asctime": "2022-12-01 21:31:16,343", "levelname": "INFO", "module": "test_project", "message": {"count": 21}}
-{"asctime": "2022-12-01 21:31:16,659", "levelname": "INFO", "module": "test_project", "message": {"count": 24}}
-{"asctime": "2022-12-01 21:31:16,974", "levelname": "INFO", "module": "test_project", "message": {"count": 27}}
+{"asctime": "2022-12-03 11:07:24,313", "module": "test_project", "message": "count", "cnt": 3}
+{"asctime": "2022-12-03 11:07:24,627", "module": "test_project", "message": "count", "cnt": 6}
+{"asctime": "2022-12-03 11:07:24,939", "module": "test_project", "message": "count", "cnt": 9}
+{"asctime": "2022-12-03 11:07:25,256", "module": "test_project", "message": "count", "cnt": 12}
+{"asctime": "2022-12-03 11:07:25,571", "module": "test_project", "message": "count", "cnt": 15}
+{"asctime": "2022-12-03 11:07:25,886", "module": "test_project", "message": "count", "cnt": 18}
+{"asctime": "2022-12-03 11:07:26,201", "module": "test_project", "message": "count", "cnt": 21}
+{"asctime": "2022-12-03 11:07:26,513", "module": "test_project", "message": "count", "cnt": 24}

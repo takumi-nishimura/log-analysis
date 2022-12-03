@@ -1,27 +1,24 @@
-{"asctime": "2022-12-01 21:31:14,250", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,356", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,461", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,567", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,672", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,777", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,879", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:14,985", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,088", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,191", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,296", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,401", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,508", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,610", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,716", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,818", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:15,924", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,027", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,132", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,238", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,342", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,449", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,555", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,658", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,761", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,868", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
-{"asctime": "2022-12-01 21:31:16,973", "levelname": "INFO", "module": "test_project", "message": {"robot_pos": {"x": 111, "y": 222, "z": 333, "roll": 444, "pitch": 555, "yaw": 666}}}
+{"asctime": "2022-12-03 11:07:24,107", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,210", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,313", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,418", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,523", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,626", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,732", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,834", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:24,939", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,045", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,150", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,255", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,358", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,464", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,570", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,676", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,782", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,885", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:25,991", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:26,098", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:26,200", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:26,302", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:26,407", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}
+{"asctime": "2022-12-03 11:07:26,512", "module": "test_project", "message": "robot_pos", "x": 111, "y": 222, "z": 333}

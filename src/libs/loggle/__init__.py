@@ -11,18 +11,31 @@ WARNING = logging.WARNING
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
-formatter = jsonlogger.JsonFormatter(
-    fmt="%(asctime)s %(levelname)s %(module)s %(message)s",
+stream_formatter = logging.Formatter(
+    "%(asctime)s.%(msecs)03d [%(levelname)-8s] %(module)s:%(lineno)d >> %(message)s",
+    datefmt="%H:%M:%S",
+)
+
+
+class StreamFilter(logging.Filter):
+    def filter(self, record):
+        return "message" not in record.getMessage()
+
+
+streamHandler = logging.StreamHandler()
+streamHandler.setFormatter(stream_formatter)
+logger.addHandler(streamHandler)
+streamHandler.addFilter(StreamFilter())
+
+json_formatter = jsonlogger.JsonFormatter(
+    fmt="%(asctime)s %(module)s %(message)s",
     json_ensure_ascii=False,
 )
-logHandler = logging.StreamHandler()
-logHandler.setFormatter(formatter)
-logger.addHandler(logHandler)
 
 
 def set_file_handler(filename, fileLogLevel, mode, filt=None):
     __fileHandler = logging.FileHandler(filename=filename, mode=mode)
-    __fileHandler.setFormatter(formatter)
+    __fileHandler.setFormatter(json_formatter)
     __fileHandler.setLevel(fileLogLevel)
     logger.addHandler(__fileHandler)
     if filt:
